@@ -1,0 +1,12 @@
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/uwimg++.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/test1.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/test2.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/test5.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/make-panorama.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/edit_cache.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/CMakeFiles/rebuild_cache.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango/CMakeFiles/harris.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango/CMakeFiles/panorama.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango/CMakeFiles/projections.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango/CMakeFiles/edit_cache.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango/CMakeFiles/rebuild_cache.dir

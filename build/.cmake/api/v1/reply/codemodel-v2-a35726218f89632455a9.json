@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "src/pango",
+					"jsonFile" : "directory-src.pango-Debug-fbe7b623b6c641aabde9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/pango",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "cse576-hw5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "harris::@844dc04d3b19e9bb9276",
+					"jsonFile" : "target-harris-Debug-83d00184550f2738a4db.json",
+					"name" : "harris",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "make-panorama::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-make-panorama-Debug-50e783818207dd76c7ed.json",
+					"name" : "make-panorama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "panorama::@844dc04d3b19e9bb9276",
+					"jsonFile" : "target-panorama-Debug-28825dce2acdb341ff5a.json",
+					"name" : "panorama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "projections::@844dc04d3b19e9bb9276",
+					"jsonFile" : "target-projections-Debug-6f96d95a96842ab2c53c.json",
+					"name" : "projections",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test1-Debug-b4a169abcee8e7bc85a5.json",
+					"name" : "test1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test2-Debug-232739a556d81d438cee.json",
+					"name" : "test2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test5-Debug-d44d640cedabb4e2915b.json",
+					"name" : "test5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uwimg++::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uwimg++-Debug-3e2e14f867ba25ba7a21.json",
+					"name" : "uwimg++",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+		"source" : "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/utils.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/utils.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/utils.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/load_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/load_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/load_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/process_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/process_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/process_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/resize_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/resize_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/resize_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/filter_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/filter_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/filter_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/harris_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/harris_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/harris_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/panorama_image.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/panorama_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/panorama_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/matrix.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/matrix.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/matrix.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++   -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/test1.dir/src/test/test1.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test1.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test1.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++   -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/test2.dir/src/test/test2.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test2.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test2.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++   -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/test5.dir/src/test/test5.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test5.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/test5.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build",
+  "command": "/usr/bin/clang++   -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/make-panorama.dir/src/test/make-panorama.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/make-panorama.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/test/make-panorama.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango",
+  "command": "/usr/bin/clang++ -DHAVE_EIGEN -DHAVE_GLEW -DHAVE_PYTHON -DPANGO_DEFAULT_WIN_URI=\\\"cocoa\\\" -D_OSX_ -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_core/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_display/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_opengl/include\" -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_image/include\" -isystem /opt/homebrew/include/eigen3 -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_windowing/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/build/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_vars/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_geometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/tinyobj/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_glgeometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_packetstream/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_plot/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_python/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_video/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_scene/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_tools/include\" -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14 -o CMakeFiles/harris.dir/test5-harris.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-harris.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-harris.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango",
+  "command": "/usr/bin/clang++ -DHAVE_EIGEN -DHAVE_GLEW -DHAVE_PYTHON -DPANGO_DEFAULT_WIN_URI=\\\"cocoa\\\" -D_OSX_ -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_core/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_display/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_opengl/include\" -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_image/include\" -isystem /opt/homebrew/include/eigen3 -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_windowing/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/build/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_vars/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_geometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/tinyobj/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_glgeometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_packetstream/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_plot/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_python/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_video/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_scene/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_tools/include\" -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14 -o CMakeFiles/panorama.dir/test5-panorama.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-panorama.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-panorama.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/build/src/pango",
+  "command": "/usr/bin/clang++ -DHAVE_EIGEN -DHAVE_GLEW -DHAVE_PYTHON -DPANGO_DEFAULT_WIN_URI=\\\"cocoa\\\" -D_OSX_ -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_core/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_display/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_opengl/include\" -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_image/include\" -isystem /opt/homebrew/include/eigen3 -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_windowing/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/build/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_vars/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_geometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/tinyobj/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_glgeometry/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_packetstream/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_plot/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_python/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_video/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_scene/include\" -isystem \"/Users/parthtripathi/Desktop/Projects/Computer Vision/Pangolin/components/pango_tools/include\" -fdiagnostics-color=always -std=c++11 -pthread -O2 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14 -o CMakeFiles/projections.dir/test5-proj.cpp.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-proj.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw5/src/pango/test5-proj.cpp"
+}
+]
